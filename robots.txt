@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://marvellousdan.netlify.app/sitemap.xml
+Sitemap: https://marvellousdanstudio.netlify.app/sitemap.xml
